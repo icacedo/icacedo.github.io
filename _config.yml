@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
-# logo: /assets/img/logo.png
 title: Ismael Acedo
 description: Keeping track of my journey through grad school
+# logo: /assets/img/logo.png
+theme: jekyll-theme-minimal
+markdown: kramdown
+
