@@ -36,6 +36,9 @@ Hernandez, R., Acedo, I., Dillon, J. G. 2020. Impact of wave action and rainfall
 * Introduction to genomics and bioinformatics Spring 2022, Spring 2021
 * Introduction to biology, Fall 2023, Fall 2021
 * Structure and function of macromolecules, Spring 2023
+
+## Relevant coursework completed at UCD
+* 
   
 ## Honors and awards:
 __CSULB BUILD Research Scholar:__ June 2017-May 2019
