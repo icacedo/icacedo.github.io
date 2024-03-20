@@ -1,7 +1,7 @@
 # Bioinformatics scientist/PhD candidate
 
 ## Goal
-I am looking for internship opportunities that will allow me to apply my bioinformatics skills while making new discoveries in the area NGS and multi-omics analysis. I am also looking develop my coding skills in a more collaborative environment.
+I am looking for internship opportunities that will allow me to apply my bioinformatics skills while making new discoveries in the areas of NGS and multi-omics analysis or data driven science. I am also looking develop my coding skills in a more collaborative environment.
 
 ## Summary
 I study alternative splicing in the _C. elegans_ genome by writing algorithms in Python on a Linux system to parse through genomic data. Using a simple stochastic model of the noisy background of alternative splicing, the not-so-simple nature of alternative splice site selection is revealed. I am working on refining the process of describing these instances of biolgically regulated splicing against the noisy background. I also have extensisve experience as a teaching assistant, which has helped me develop strong communication and organizational skills. 
