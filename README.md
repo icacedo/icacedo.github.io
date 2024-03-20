@@ -7,7 +7,8 @@ I am looking for internship opportunities that will allow me to apply my bioinfo
 I study alternative splicing in the _C. elegans_ genome by writing algorithms in Python on a Linux system to parse through genomic data. Using a simple stochastic model of the noisy background of alternative splicing, the not-so-simple nature of alternative splice site selection is revealed. I am working on refining the process of describing these instances of biologically regulated splicing against the noisy background. I also have extensive experience as a teaching assistant, which has helped me develop strong communication and organizational skills. 
 
 ## Education
-+ University of California, Davis. In-progress PhD, Integrative Genetics and Genomics. September 2019-present
++ University of California, Davis. In-progress PhD, advanced to candidacy, Integrative Genetics and Genomics. September 2019-present
++ University of California, Davis. MS, Integrative Genetics and Genomics. Filed to graduate 2023
 + California State University, Long Beach. BSc, Microbiology. September 2014-May 2019
 
 ## Skills
@@ -38,7 +39,12 @@ Hernandez, R., Acedo, I., Dillon, J. G. 2020. Impact of wave action and rainfall
 * Structure and function of macromolecules, Spring 2023
 
 ## Relevant coursework completed at UCD
-* 
+* Graduate group core classes, Fall 2019-Spring 2020
+  * Genetic analysis, Genomics, Quantitative and population genetics
+* Applied multivariate modeling Fall 2020
+* Microbial biology Fall 2020
+* Scientific professionalism and integrity, Fall 2020
+* Machine learning genomics, Fall 2021
   
 ## Honors and awards:
 __CSULB BUILD Research Scholar:__ June 2017-May 2019
