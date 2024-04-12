@@ -8,6 +8,7 @@ I study alternative splicing in the _C. elegans_ genome by writing algorithms in
 
 ## Education
 + University of California, Davis. In-progress PhD, advanced to candidacy, Integrative Genetics and Genomics. September 2019-present
++ University of California, Davis. MS, Integrative Genetics and Genomics. Filed March 2024
 + California State University, Long Beach. BSc, Microbiology. September 2014-May 2019
 
 ## Skills
